@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @harinikarthikeyan511
+- 👋 Hi, I’m Harini.K
+-I persuing Computer science engineering at adhiyamaan college of engineering,Hosur.
 - 👀 I’m interested in web development,machine learning.
-- 🌱 I’m currently learning languages like python,c,c++.
+- 🌱 My technical skills are Python,C,HTML,CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ harinikarthikeyan511@gamil.com
 - My linkedIn id is https://www.linkedin.com/in/harini-k-7841b8223
