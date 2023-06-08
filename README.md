@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Harini.K
--I persuing Computer science engineering at adhiyamaan college of engineering,Hosur.
+- 👋 Hi, I’m Harini.K  persuing Computer science engineering at adhiyamaan college of engineering,Hosur.
 - 👀 I’m interested in web development,machine learning.
 - 🌱 My technical skills are Python,C,HTML,CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
